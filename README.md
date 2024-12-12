@@ -11,6 +11,9 @@ Tic-Tac-Toe là một trò chơi cổ điển dành cho 2 người chơi. Dự �
 - **Quản lý điểm số**: Hiển thị điểm của từng người chơi và số lần hòa.
 - **Tùy chỉnh tên người chơi**: Nhập tên người chơi tùy ý.
 
+## Demo
+Xem bản demo trực tiếp tại đây: [Tic-Tac-Toe](https://tictactoeapp02.netlify.app/)
+
 ## Cách sử dụng
 1. Chọn kích thước bảng từ menu thả xuống.
 2. Nhập tên người chơi.
